@@ -1,5 +1,5 @@
 # Number-Plate-Detection
-The Java project is for Vehicle Number Plate Detection.
+The Java project is for Vehicle Number Plate Detection.<br />
 Displays text in images of Number Plate
 GUI consists of three buttons and ImageFrame and TextArea.<br />
 With the first button we can add images fromm file present locally on the system.<br />
